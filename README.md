@@ -1,6 +1,6 @@
 # Ecommerce-MERN-APP
 
-A Full Stack React Ecommerce MERN APP.
+Full Stack E-commerce Clothing App that lets users log in, browse products, add products to the cart, & check out. It shows user analytics & allows you to list products. It provides security of credentials using JWT.
 
 Languages and Tools:
 
